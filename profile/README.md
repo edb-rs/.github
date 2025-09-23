@@ -1,6 +1,7 @@
 # edb-rs 🪄🐛
 
-We make **Ethereum debugging less painful** (and a little magical).  
+We make **Ethereum debugging less painful** (and a little magical).
+
 **EDB** is a Rust-powered debugger that lets you step through Solidity contracts like they’re *real programs*, not cryptic bytecode soup.
 
 ---
@@ -37,9 +38,6 @@ edb --rpc-urls <RPC_ENDPOINTS> replay 0xdeadbeef...c0ffee
 * License: AGPL-3.0
 * Sponsors: ESP (Ethereum Foundation) ❤️
 
----
-
 > Debugging Solidity without EDB is like being Sherlock without Watson.
-> With EDB: the contract confesses on the first question.
-
-EDB won't fix your bugs, but it *will* level up our morale bar.
+> 
+> EDB won't fix your bugs, but it will level up our morale bar.
