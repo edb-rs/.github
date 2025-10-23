@@ -35,6 +35,7 @@ edb --rpc-urls <RPC_ENDPOINTS> replay 0xdeadbeef...c0ffee
 ## 📚 Links
 
 * Repo: [edb](https://github.com/edb-rs/edb)
+* Q&A TG Group: https://t.me/edb_feedback
 * License: AGPL-3.0
 * Sponsors: ESP (Ethereum Foundation) ❤️
 
